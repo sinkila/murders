@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1603197542183.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "CC2AA29E",
+    "lastKnownWriteTime" : 1603202014,
+    "last_content_update" : 1603202014340,
+    "path" : "C:/Users/Sari Inkilä/projects/murders/download-data.R",
+    "project_path" : "download-data.R",
+    "properties" : {
+        "cursorPosition" : "4,40",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

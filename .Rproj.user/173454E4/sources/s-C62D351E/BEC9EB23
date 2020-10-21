@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1603262650031.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "BEC9EB23",
+    "lastKnownWriteTime" : 1603264700,
+    "last_content_update" : 1603264700539,
+    "path" : "C:/Users/Sari Inkilä/projects/murders/report.Rmd",
+    "project_path" : "report.Rmd",
+    "properties" : {
+        "cursorPosition" : "31,38",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

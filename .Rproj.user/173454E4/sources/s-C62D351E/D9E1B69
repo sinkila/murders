@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1603198195257.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "577925909",
+    "id" : "D9E1B69",
+    "lastKnownWriteTime" : 1603198389,
+    "last_content_update" : 1603198389313,
+    "path" : "C:/Users/Sari Inkilä/projects/murders/wrangle-data.R",
+    "project_path" : "wrangle-data.R",
+    "properties" : {
+        "cursorPosition" : "0,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
